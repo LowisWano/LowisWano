@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/6d/7b/d8/6d7bd8196b910a19e873f86e1010d113.jpg)](https://lowiswano.io)
+
 <h1 align="center">Hi 👋, I'm Luis Andrei Ouano</h1>
 <h3 align="center">Aspiring Software Engineer 💻</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
