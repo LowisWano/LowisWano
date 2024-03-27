@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, JavaScript, Django, ReactJS**
 
-- 👯 I’m looking to collaborate on **Web Development, Django Applications**
+- 👯 I love solving problems
 
 - 📫 How to reach me **laeouano@gmail.com**
 
