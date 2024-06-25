@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Luis Andrei Ouano</h1>
-<h3 align="center">Aspiring Software Engineer 💻</h3>
+<h3 align="center">CS Student 💻</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lowiswano&label=Profile%20views&color=0e75b6&style=flat" alt="lowiswano" /> </p>
 
-- 🌱 I’m currently learning **Python, JavaScript, Django, ReactJS**
+- 🌱 Learning: Web Development
 
-- 👯 I love solving problems
+- 👯 I like to make overcomplicated solutions to non-existent problems.
 
 - 📫 How to reach me **laeouano@gmail.com**
 
