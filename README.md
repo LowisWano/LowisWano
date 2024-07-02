@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lowiswano&label=Profile%20views&color=0e75b6&style=flat" alt="lowiswano" /> </p>
 
-- 🌱 Learning: Web Development
+- 🌱 Learning: Full Stack Web Development
 
 - 👯 I like to make overcomplicated solutions to non-existent problems.
 
