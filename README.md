@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Luis Andrei Ouano</h1>
 <h3 align="center">CS Student 💻</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="center" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 🌱 Learning: Full Stack Web Development
 
@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/luis andrei ouano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis andrei ouano" height="30" width="40" /></a>
 </p>
 
-<div style="margin-top: 20px" align="center">
+<div align="center">
   <h3>Technology Stack</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="html5 logo"  />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="css3 logo"  />
