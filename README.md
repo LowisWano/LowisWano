@@ -1,19 +1,8 @@
-
-  <h1>Hi 👋, I'm Luis Andrei Ouano</h1>
-  <h3>CS Student 💻</h3>
-  <img alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-  
-- 🌱 Learning: Full Stack Web Development
-  
-- 👯 I like to make overcomplicated solutions to non-existent problems.
-  
-- 📫 How to reach me **laeouano@gmail.com**
-  
-  <h3>Connect with me:</h3>
-  <p>
-  <a href="https://linkedin.com/in/luis andrei ouano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis andrei ouano" height="30" width="40" /></a>
-  </p>
-
+  <div align="center">
+    <h1>Hi 👋, I'm Luis Andrei Ouano</h1>
+    <h3>CS Student 💻</h3>
+    <img alt="coding" width="1000" height="200" src="https://i.pinimg.com/736x/7d/5e/8a/7d5e8a8b8985d2b1881ec5864b4aa70d.jpg">
+  </div>
 
 ---
 
