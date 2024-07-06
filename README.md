@@ -3,11 +3,11 @@
   <h3 align="center">CS Student 💻</h3>
   <img align="center" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
   
-  - 🌱 Learning: Full Stack Web Development
+🌱 Learning: Full Stack Web Development
   
-  - 👯 I like to make overcomplicated solutions to non-existent problems.
+👯 I like to make overcomplicated solutions to non-existent problems.
   
-  - 📫 How to reach me **laeouano@gmail.com**
+📫 How to reach me **laeouano@gmail.com**
   
   <h3 align="left">Connect with me:</h3>
   <p align="left">
