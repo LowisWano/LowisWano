@@ -15,6 +15,8 @@
   </p>
 </div>
 
+---
+
 <div align="center">
   <h3>Technology Stack</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="html5 logo"  />
@@ -25,6 +27,8 @@
   <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" alt="bash logo"  />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="python logo"  />
 </div>
+
+---
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 8px; width: 100%">
   <div style="display: flex; width: 100%; justify-content: center; gap: 8px">
