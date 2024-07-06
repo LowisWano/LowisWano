@@ -1,7 +1,7 @@
 
   <h1>Hi 👋, I'm Luis Andrei Ouano</h1>
   <h3>CS Student 💻</h3>
-  <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+  <img alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
   
 - 🌱 Learning: Full Stack Web Development
   
