@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Luis Andrei Ouano</h1>
   <h3 align="center">CS Student 💻</h3>
-  <img align="center" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+  <img align="center" alt="coding" width="1000" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
   
 🌱 Learning: Full Stack Web Development
   
@@ -9,8 +9,8 @@
   
 📫 How to reach me **laeouano@gmail.com**
   
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
+  <h3 align="center">Connect with me:</h3>
+  <p align="center">
   <a href="https://linkedin.com/in/luis andrei ouano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis andrei ouano" height="30" width="40" /></a>
   </p>
 </div>
