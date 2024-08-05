@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" alt="express logo"  />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="mongodb logo"  />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="jwt logo"  />
+  <img src="https://img.shields.io/badge/PlayWright-gray?style=for-the-badge&logo=playwright" alt="playwright logo" />
   <img src="https://img.shields.io/badge/Vitest-F7DF1E?style=for-the-badge&logo=vitest" alt="vitest logo">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql logo" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="php logo" />
