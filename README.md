@@ -1,8 +1,13 @@
   <div align="center">
     <h1>Luis Andrei Ouano</h1>
-    <h3>CS Student 💻</h3>
     <img alt="coding" width="1000" height="200" src="https://i.pinimg.com/736x/7d/5e/8a/7d5e8a8b8985d2b1881ec5864b4aa70d.jpg">
   </div>
+  
+
+### About Me 🔍
+- 💻 2nd Year Computer Science Student at University of San Carlos
+- 🌱 I’m currently learning Full-Stack Development
+- 📫 Reach me: laeouano@gmail.com
 
 ---
 
