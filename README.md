@@ -41,10 +41,11 @@
 
 ---
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 8px; width: 100%">
-  <div style="display: flex; width: 100%; justify-content: center; gap: 8px">
+<div align="center" >
+  <div>
     <img style="width: 392px" src="https://github-readme-stats.vercel.app/api?username=lowiswano&show_icons=true&theme=highcontrast"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowiswano&theme=highcontrast&layout=compact&hide=jupyter%20notebook" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LowisWano&theme=highcontrast&hide_border=false"/>
   </div>
   <img style="width: 96px;" src="https://komarev.com/ghpvc/?username=lowiswano&color=0c1116" />
 </div>
