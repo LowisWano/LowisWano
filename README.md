@@ -53,7 +53,6 @@
   <div>
     <img style="width: 392px" src="https://github-readme-stats.vercel.app/api?username=lowiswano&show_icons=true&theme=highcontrast"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowiswano&theme=highcontrast&layout=compact&size_weight=0.5&count_weight=0.5" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LowisWano&theme=highcontrast&hide_border=false"/>
   </div>
   <img style="width: 96px;" src="https://komarev.com/ghpvc/?username=lowiswano&color=0c1116" />
 </div>
