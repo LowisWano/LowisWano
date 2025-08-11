@@ -4,8 +4,8 @@
   
 
 ### About Me 🔍
-- 💻 2nd Year Computer Science Student at University of San Carlos
-- 🌱 I’m currently learning Full-Stack Development
+- 💻 3rd Year Computer Science Student at University of San Carlos
+- 🌱 I’m currently learning DevOps and Infrastructure
 - 📫 Reach me: laeouano@gmail.com
 
 ---
