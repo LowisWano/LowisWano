@@ -6,7 +6,7 @@
 ### About Me 🔍
 - 💻 3rd Year Computer Science Student at University of San Carlos
 - ♻️ Software Developer Intern at Full Scale
-- 🌱 I’m currently learning Azure and Devops
+- 🌱 I’m currently learning Azure and ASP.NET
 - 📫 Reach me: laeouano@gmail.com
 
 ---
